@@ -41,7 +41,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p className="hero-subtitle">
-              Full Stack Developer & ML Enthusiast
+              Full Stack Developer, Backend & ML Enthusiast
             </p>
             <p className="hero-meta">
               B.Tech IT Student • CGPA 9.56/10
@@ -71,15 +71,6 @@ export function Hero() {
             >
               <Linkedin size={20} />
               <span>LinkedIn</span>
-            </a>
-            <a
-              href="https://portfolio-kvp.netlify.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="social-link social-link-portfolio"
-            >
-              <ExternalLink size={20} />
-              <span>Old Portfolio</span>
             </a>
           </motion.div>
 

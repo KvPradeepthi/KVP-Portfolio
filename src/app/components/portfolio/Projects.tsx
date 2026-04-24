@@ -25,7 +25,7 @@ export function Projects() {
       technologies: ['Node.js', 'Express.js', 'MySQL', 'REST APIs'],
       icon: Database,
       github: 'https://github.com/KvPradeepthi/SmartResourcePlatform',
-      live: 'https://github.com/KvPradeepthi/SmartResourcePlatform',
+      live: 'https://pecup.in',
       gradient: 'gradient-emerald-teal',
     },
     {
