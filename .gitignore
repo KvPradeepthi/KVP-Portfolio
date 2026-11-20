@@ -1,0 +1,25 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+.env*.local
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Node modules & build artifacts
+node_modules/
+
+# Temporary scratch & audit scripts
+*_README.txt
+dump_readmes.py
+read_pdf_info.py
+fetch_repos.py
+find_linkedin.py
+generate_app_js.py
+generate_refined_app_js.py
+read_pecup.py
+read_readmes.py
+test_resend_live.py
+test_suite.py
+verify_links_and_navigation.py
+debug_overflow.js

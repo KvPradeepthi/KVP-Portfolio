@@ -1,0 +1,3 @@
+# Portfolio Python Backend
+# Native Python standard library is used (http.server, urllib, json, smtplib).
+# No external package compilation needed.
